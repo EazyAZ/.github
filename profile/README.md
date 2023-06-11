@@ -1,6 +1,6 @@
 ## Architectural pattern for .NET Web applications
 
-Creating Web applications should be as easy as **ABC**.
+Creating Web **A**pplications referencing a **B**usiness and a **C**ore projects should be as easy as **ABC**.
 
 - **A**pplications (.NET)
   - MVC.
