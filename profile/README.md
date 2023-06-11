@@ -1,16 +1,16 @@
 ## Architectural pattern for .NET Web applications
 
-Creating Web applications should be as easy as ABC.
+Creating Web applications should be as easy as **ABC**.
 
-- Applications (.NET)
+- **A**pplications (.NET)
   - MVC.
   - Razor Pages.
   - Web Api.
   - Blazor Server.
   - Blazor WASM.
-- Business 
+- **B**usiness 
   - Services.
-- Core
+- **C**ore
   - Configuration, Constants.
   - Entities, Enums, Models.
   - Extensions, Helpers.
@@ -18,4 +18,5 @@ Creating Web applications should be as easy as ABC.
 
 Have fun 🍿 and create magical 🧙 apps.
 
-" Ce que l’on conçoit bien s’énonce clairement, et les mots pour le dire arrivent aisément. " - Nicolas Boileau
+> " What is conceived well is expressed clearly. " - *Nicolas Boileau, French writer.*  
+" Ce que l'on conçoit bien s'énonce clairement, et les mots pour le dire arrivent aisément. "
