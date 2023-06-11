@@ -1,14 +1,21 @@
-## Goals
+## Architectural pattern for .NET Web applications
 
-.NET development should be as easy as ABC.
+Creating Web applications should be as easy as ABC.
 
-<!--
+- Applications (.NET)
+  - MVC.
+  - Razor Pages.
+  - Web Api.
+  - Blazor Server.
+  - Blazor WASM.
+- Business 
+  - Services.
+- Core
+  - Configuration, Constants.
+  - Entities, Enums, Models.
+  - Extensions, Helpers.
+  - Interfaces (Ex: `I...Service`).
 
-**Here are some ideas to get you started:**
+Have fun 🍿 and create magical 🧙 apps.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+" Ce que l’on conçoit bien s’énonce clairement, et les mots pour le dire arrivent aisément. " - Nicolas Boileau
