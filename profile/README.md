@@ -1,6 +1,6 @@
-## Hi there 👋
+## Goals
 
-Easy as ABC, 123.
+.NET development should be as easy as ABC.
 
 <!--
 
