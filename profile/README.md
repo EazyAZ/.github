@@ -16,6 +16,21 @@ Creating Web **A**pplications referencing a **B**usiness and a **C**ore projects
   - Extensions, Helpers.
   - Interfaces (Ex: `I...Service`).
 
+## Structure and dependencies
+
+- The **A**pplication project has a dependency on the **B**usiness project which has a dependency on the **C**ore project.
+
+## Program
+
+`Program.cs` in the **A**pplication is in charge of:
+
+- Add Logging provider:
+  - Ex: `builder.AddSerilog();`
+- Adding dependency injection: 
+  - Ex: **B**usiness Services `builder.Services.AddBusinessServices();`.
+- Bind `App` section to the **C**ore `Configuration.AppSettings`. 
+  - Ex: `ConfigureAppSettingsSection(builder.Configuration);`.
+
 Have fun 🍿 and create magical 🧙 apps.
 
 > " What is conceived well is expressed clearly. " - *Nicolas Boileau, French writer.*  
