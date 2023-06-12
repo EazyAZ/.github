@@ -31,7 +31,9 @@ Creating Web **A**pplications referencing a **B**usiness and a **C**ore projects
 - Bind `App` section to the **C**ore `Configuration.AppSettings`. 
   - Ex: `ConfigureAppSettingsSection(builder.Configuration);`.
 
+<!--
 Have fun 🍿 and create magical 🧙 apps.
 
 > " What is conceived well is expressed clearly. " - *Nicolas Boileau, French writer.*  
 " Ce que l'on conçoit bien s'énonce clairement, et les mots pour le dire arrivent aisément. "
+-->
