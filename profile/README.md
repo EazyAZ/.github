@@ -1,8 +1,8 @@
 ## Architectural pattern for .NET Web applications
 
-Creating Web **A**pplications referencing a **B**usiness and a **C**ore projects should be as easy as **ABC**.
+Creating .NET **A**pplications referencing a **B**usiness and a **C**ore projects should be as easy as **ABC**.
 
-- **A**pplications (.NET)
+- **A**pplications
   - MVC.
   - Razor Pages.
   - Web Api.
